@@ -8,7 +8,7 @@ middle_name:
 last_name: Rajaei
 contact_note: >
   moein.rajaei@yale.edu
-description: > # the ">" symbol means to ignore newlines until "footer_text:"
+description: My research integrates computational biology, evolutionary genetics, and large-scale sequencing analyses to investigate how mutation and selection shape genome evolution in natural populations and cancer.
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
